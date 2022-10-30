@@ -17,3 +17,7 @@ document.getElementById('unknown5').onclick = () => {
 document.getElementById('unknown6').onclick = () => {
     window.open('https://osu.ppy.sh/beatmapsets/1875919#mania/3860490')
 }
+
+document.getElementById('unknown2').onclick = () => {
+    window.open('https://osu.ppy.sh/beatmapsets/1876041#mania/3860745')
+}
