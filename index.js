@@ -14,4 +14,6 @@ document.getElementById('unknown5').onclick = () => {
     window.open('https://osu.ppy.sh/beatmapsets/1871846#mania/3851404')
 }
 
-localStorage.setItem('wood', 'wood')
+document.getElementById('unknown6').onclick = () => {
+    window.open('https://osu.ppy.sh/beatmapsets/1875919#mania/3860490')
+}
