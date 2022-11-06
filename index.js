@@ -21,3 +21,11 @@ document.getElementById('unknown6').onclick = () => {
 document.getElementById('unknown2').onclick = () => {
     window.open('https://osu.ppy.sh/beatmapsets/1876041#mania/3860745')
 }
+
+document.getElementById('unknown1').onclick = () => {
+    window.open('https://osu.ppy.sh/beatmapsets/1880082#mania/3870449')
+}
+
+document.getElementById('unknown8').onclick = () => {
+    window.open('https://osu.ppy.sh/beatmapsets/1880819#mania/3872087')
+}
