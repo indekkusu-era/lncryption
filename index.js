@@ -29,3 +29,7 @@ document.getElementById('unknown1').onclick = () => {
 document.getElementById('unknown8').onclick = () => {
     window.open('https://osu.ppy.sh/beatmapsets/1880819#mania/3872087')
 }
+
+document.getElementById('unknown9').onclick = () => {
+    window.open('https://osu.ppy.sh/beatmapsets/1884776#mania/3880637')
+}
