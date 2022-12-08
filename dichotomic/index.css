@@ -24,3 +24,6 @@ body {
     cursor: pointer;
 }
 
+.credits {
+    font-size: medium;
+}
